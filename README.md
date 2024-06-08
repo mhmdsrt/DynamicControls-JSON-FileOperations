@@ -7,3 +7,4 @@ DynamicControls-JSON-FileOperations
 ![Ekran Görüntüsü (283)](https://github.com/mhmdsrt/DynamicControls-JSON-FileOperations/assets/164398109/c805f08b-5720-4000-8bb1-c475c1538267)
 ![Ekran Görüntüsü (282)](https://github.com/mhmdsrt/DynamicControls-JSON-FileOperations/assets/164398109/b61f967d-f440-4bbe-b995-8671815099e8)
 ![Ekran Görüntüsü (281)](https://github.com/mhmdsrt/DynamicControls-JSON-FileOperations/assets/164398109/44148d01-9412-4ffb-8488-b5dcea36739a)
+![Ekran Görüntüsü (284)](https://github.com/mhmdsrt/DynamicControls-JSON-FileOperations/assets/164398109/30bf53e0-a4c8-4724-a195-7b5f430352fd)
