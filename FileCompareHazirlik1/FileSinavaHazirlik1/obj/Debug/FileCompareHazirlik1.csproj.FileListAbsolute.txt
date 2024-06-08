@@ -1,0 +1,6 @@
+C:\Users\Mimy\Desktop\PrograglamaFinal\FileCompareHazirlik1\FileSinavaHazirlik1\obj\Debug\FileCompareHazirlik1.csproj.AssemblyReference.cache
+C:\Users\Mimy\Desktop\PrograglamaFinal\FileCompareHazirlik1\FileSinavaHazirlik1\obj\Debug\FileSinavaHazirlik1.Properties.Resources.resources
+C:\Users\Mimy\Desktop\PrograglamaFinal\FileCompareHazirlik1\FileSinavaHazirlik1\obj\Debug\FileCompareHazirlik1.csproj.GenerateResource.cache
+C:\Users\Mimy\Desktop\PrograglamaFinal\FileCompareHazirlik1\FileSinavaHazirlik1\obj\Debug\FileCompareHazirlik1.csproj.CoreCompileInputs.cache
+C:\Users\Mimy\Desktop\PrograglamaFinal\FileCompareHazirlik1\FileSinavaHazirlik1\obj\Debug\FileSinavaHazirlik1.exe
+C:\Users\Mimy\Desktop\PrograglamaFinal\FileCompareHazirlik1\FileSinavaHazirlik1\obj\Debug\FileSinavaHazirlik1.pdb

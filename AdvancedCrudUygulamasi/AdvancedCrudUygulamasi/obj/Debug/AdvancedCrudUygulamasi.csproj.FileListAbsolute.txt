@@ -1,0 +1,12 @@
+C:\Users\Mimy\Desktop\PrograglamaFinal\AdvancedCrudUygulamasi\AdvancedCrudUygulamasi\bin\Debug\AdvancedCrudUygulamasi.exe.config
+C:\Users\Mimy\Desktop\PrograglamaFinal\AdvancedCrudUygulamasi\AdvancedCrudUygulamasi\bin\Debug\AdvancedCrudUygulamasi.exe
+C:\Users\Mimy\Desktop\PrograglamaFinal\AdvancedCrudUygulamasi\AdvancedCrudUygulamasi\bin\Debug\AdvancedCrudUygulamasi.pdb
+C:\Users\Mimy\Desktop\PrograglamaFinal\AdvancedCrudUygulamasi\AdvancedCrudUygulamasi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mimy\Desktop\PrograglamaFinal\AdvancedCrudUygulamasi\AdvancedCrudUygulamasi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mimy\Desktop\PrograglamaFinal\AdvancedCrudUygulamasi\AdvancedCrudUygulamasi\obj\Debug\AdvancedCrudUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Mimy\Desktop\PrograglamaFinal\AdvancedCrudUygulamasi\AdvancedCrudUygulamasi\obj\Debug\AdvancedCrudUygulamasi.Properties.Resources.resources
+C:\Users\Mimy\Desktop\PrograglamaFinal\AdvancedCrudUygulamasi\AdvancedCrudUygulamasi\obj\Debug\AdvancedCrudUygulamasi.csproj.GenerateResource.cache
+C:\Users\Mimy\Desktop\PrograglamaFinal\AdvancedCrudUygulamasi\AdvancedCrudUygulamasi\obj\Debug\AdvancedCrudUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Mimy\Desktop\PrograglamaFinal\AdvancedCrudUygulamasi\AdvancedCrudUygulamasi\obj\Debug\Advanced.1CC8D0A8.Up2Date
+C:\Users\Mimy\Desktop\PrograglamaFinal\AdvancedCrudUygulamasi\AdvancedCrudUygulamasi\obj\Debug\AdvancedCrudUygulamasi.exe
+C:\Users\Mimy\Desktop\PrograglamaFinal\AdvancedCrudUygulamasi\AdvancedCrudUygulamasi\obj\Debug\AdvancedCrudUygulamasi.pdb
