@@ -1,0 +1,9 @@
+C:\Users\Mimy\Desktop\PrograglamaFinal\TrainTicketUygulamasi\TrainTicketUygulamasi\bin\Debug\TrainTicketUygulamasi.exe.config
+C:\Users\Mimy\Desktop\PrograglamaFinal\TrainTicketUygulamasi\TrainTicketUygulamasi\bin\Debug\TrainTicketUygulamasi.exe
+C:\Users\Mimy\Desktop\PrograglamaFinal\TrainTicketUygulamasi\TrainTicketUygulamasi\bin\Debug\TrainTicketUygulamasi.pdb
+C:\Users\Mimy\Desktop\PrograglamaFinal\TrainTicketUygulamasi\TrainTicketUygulamasi\obj\Debug\TrainTicketUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Mimy\Desktop\PrograglamaFinal\TrainTicketUygulamasi\TrainTicketUygulamasi\obj\Debug\TrainTicketUygulamasi.Properties.Resources.resources
+C:\Users\Mimy\Desktop\PrograglamaFinal\TrainTicketUygulamasi\TrainTicketUygulamasi\obj\Debug\TrainTicketUygulamasi.csproj.GenerateResource.cache
+C:\Users\Mimy\Desktop\PrograglamaFinal\TrainTicketUygulamasi\TrainTicketUygulamasi\obj\Debug\TrainTicketUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Mimy\Desktop\PrograglamaFinal\TrainTicketUygulamasi\TrainTicketUygulamasi\obj\Debug\TrainTicketUygulamasi.exe
+C:\Users\Mimy\Desktop\PrograglamaFinal\TrainTicketUygulamasi\TrainTicketUygulamasi\obj\Debug\TrainTicketUygulamasi.pdb

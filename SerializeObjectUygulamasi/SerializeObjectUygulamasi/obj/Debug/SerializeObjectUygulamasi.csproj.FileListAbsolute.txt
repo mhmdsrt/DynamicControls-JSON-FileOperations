@@ -1,0 +1,12 @@
+C:\Users\Mimy\Desktop\PrograglamaFinal\SerializeObjectUygulamasi\SerializeObjectUygulamasi\bin\Debug\SerializeObjectUygulamasi.exe.config
+C:\Users\Mimy\Desktop\PrograglamaFinal\SerializeObjectUygulamasi\SerializeObjectUygulamasi\bin\Debug\SerializeObjectUygulamasi.exe
+C:\Users\Mimy\Desktop\PrograglamaFinal\SerializeObjectUygulamasi\SerializeObjectUygulamasi\bin\Debug\SerializeObjectUygulamasi.pdb
+C:\Users\Mimy\Desktop\PrograglamaFinal\SerializeObjectUygulamasi\SerializeObjectUygulamasi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mimy\Desktop\PrograglamaFinal\SerializeObjectUygulamasi\SerializeObjectUygulamasi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mimy\Desktop\PrograglamaFinal\SerializeObjectUygulamasi\SerializeObjectUygulamasi\obj\Debug\SerializeObjectUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Mimy\Desktop\PrograglamaFinal\SerializeObjectUygulamasi\SerializeObjectUygulamasi\obj\Debug\SerializeObjectUygulamasi.Properties.Resources.resources
+C:\Users\Mimy\Desktop\PrograglamaFinal\SerializeObjectUygulamasi\SerializeObjectUygulamasi\obj\Debug\SerializeObjectUygulamasi.csproj.GenerateResource.cache
+C:\Users\Mimy\Desktop\PrograglamaFinal\SerializeObjectUygulamasi\SerializeObjectUygulamasi\obj\Debug\SerializeObjectUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Mimy\Desktop\PrograglamaFinal\SerializeObjectUygulamasi\SerializeObjectUygulamasi\obj\Debug\Serializ.733AAECA.Up2Date
+C:\Users\Mimy\Desktop\PrograglamaFinal\SerializeObjectUygulamasi\SerializeObjectUygulamasi\obj\Debug\SerializeObjectUygulamasi.exe
+C:\Users\Mimy\Desktop\PrograglamaFinal\SerializeObjectUygulamasi\SerializeObjectUygulamasi\obj\Debug\SerializeObjectUygulamasi.pdb

@@ -1,0 +1,9 @@
+C:\Users\Mimy\Desktop\PrograglamaFinal\OrderManagementUygulamasi\OrderManagementUygulamasi\bin\Debug\OrderManagementUygulamasi.exe.config
+C:\Users\Mimy\Desktop\PrograglamaFinal\OrderManagementUygulamasi\OrderManagementUygulamasi\bin\Debug\OrderManagementUygulamasi.exe
+C:\Users\Mimy\Desktop\PrograglamaFinal\OrderManagementUygulamasi\OrderManagementUygulamasi\bin\Debug\OrderManagementUygulamasi.pdb
+C:\Users\Mimy\Desktop\PrograglamaFinal\OrderManagementUygulamasi\OrderManagementUygulamasi\obj\Debug\OrderManagementUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Mimy\Desktop\PrograglamaFinal\OrderManagementUygulamasi\OrderManagementUygulamasi\obj\Debug\OrderManagementUygulamasi.Properties.Resources.resources
+C:\Users\Mimy\Desktop\PrograglamaFinal\OrderManagementUygulamasi\OrderManagementUygulamasi\obj\Debug\OrderManagementUygulamasi.csproj.GenerateResource.cache
+C:\Users\Mimy\Desktop\PrograglamaFinal\OrderManagementUygulamasi\OrderManagementUygulamasi\obj\Debug\OrderManagementUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Mimy\Desktop\PrograglamaFinal\OrderManagementUygulamasi\OrderManagementUygulamasi\obj\Debug\OrderManagementUygulamasi.exe
+C:\Users\Mimy\Desktop\PrograglamaFinal\OrderManagementUygulamasi\OrderManagementUygulamasi\obj\Debug\OrderManagementUygulamasi.pdb
