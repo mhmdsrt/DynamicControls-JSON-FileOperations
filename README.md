@@ -1,5 +1,7 @@
 # DynamicControls-JSON-FileOperations
 DynamicControls-JSON-FileOperations
+
+
 Form kontrolleri dinamik olarak ayarlama - JSON veri Serileştirme-Deserileştirme - Dosya İşlemleri
 
 ![Ekran Görüntüsü (276)](https://github.com/mhmdsrt/DynamicControls-JSON-FileOperations/assets/164398109/9211779b-560f-4d2f-b56c-65439a6b725b)
